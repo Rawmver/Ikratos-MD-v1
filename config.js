@@ -53,23 +53,23 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '923082990885' //Nomor Bot
+global.nomorown = '923082990885' //Nomor Owner
+global.namebot = 'LuciFer-MD-v1' //Nama Bot
+global.nameown = 'LucifeR🇵🇰' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'org-R0j3RxTEKpCwPqWFNqAAPv4n'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['923142478085', 'LuciFer🎐', true] //don't change this name and number
+  ['923082990885', 'SaqLAIN🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
+global.mods = ['923142478085',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -105,10 +105,10 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.wm = '「 lUCIfer-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰s˘lUCiFer- L ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'lUCIFER-ᴍᴅ-ᴠ𝟷'
+global.footerTXT = `lUCIFER-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 3082990885`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+92 3082990885'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -181,9 +181,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickauth = `「 LuciFER-ᴍᴅ-ᴠ𝟷 」`
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ LUCIfer'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ lUCIFER'
 
 global.multiplier = 38 // The higher, The harder levelup
 
