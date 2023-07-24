@@ -48,8 +48,8 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '923082990885' //Nomor Danamu
+global.ppulsa = '923142478085' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
@@ -60,13 +60,13 @@ global.nameown = 'LucifeR🇵🇰' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'org-R0j3RxTEKpCwPqWFNqAAPv4n'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = 'MzdlBbjRbpoaUxZOu5HNT3BlbkFJOMsw1fDSQfpLupK7SZto'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'R0j3RxTEKpCwPqWFNqAAPv4n'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['923142478085', 'LuciFer🎐', true] //don't change this name and number
-  ['923082990885', 'SaqLAIN🎐', false] //Replace your name and number here
+  ['923082990885', 'SaqLAIN🎐', true] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923142478085',''] //Don't replace this,If you want to add someone add any dev
